@@ -149,3 +149,8 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+printf("Hello World\n")    
+
+system.out.println(" hello world");      
+
