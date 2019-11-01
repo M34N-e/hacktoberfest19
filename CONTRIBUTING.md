@@ -34,6 +34,8 @@ print("Hello world ")
 
 print("werokamu")   
 
+
+
 system.out.println(" hello world");   
 
 fmt.Println("Hello World")   
@@ -149,3 +151,9 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+print("Hello world ")   
+
+println('Hello World')   
+
+console.log("hello world");
